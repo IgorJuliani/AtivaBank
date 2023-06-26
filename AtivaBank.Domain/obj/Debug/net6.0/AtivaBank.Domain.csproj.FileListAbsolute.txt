@@ -1,0 +1,12 @@
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\bin\Debug\net6.0\AtivaBank.Domain.deps.json
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\bin\Debug\net6.0\AtivaBank.Domain.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\bin\Debug\net6.0\AtivaBank.Domain.pdb
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.csproj.AssemblyReference.cache
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.AssemblyInfoInputs.cache
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.AssemblyInfo.cs
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\refint\AtivaBank.Domain.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\AtivaBank.Domain.pdb
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Domain\obj\Debug\net6.0\ref\AtivaBank.Domain.dll

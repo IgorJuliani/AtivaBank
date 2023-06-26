@@ -1,0 +1,441 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Test\\AtivaBank.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj",
+        "projectName": "AtivaBank.Application",
+        "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj",
+        "packagesPath": "C:\\Users\\ijuliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ijuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Infra\\AtivaBank.Infra.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Infra\\AtivaBank.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj",
+        "projectName": "AtivaBank.Domain",
+        "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj",
+        "packagesPath": "C:\\Users\\ijuliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ijuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Infra\\AtivaBank.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Infra\\AtivaBank.Infra.csproj",
+        "projectName": "AtivaBank.Infra",
+        "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Infra\\AtivaBank.Infra.csproj",
+        "packagesPath": "C:\\Users\\ijuliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ijuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.IoC\\AtivaBank.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.IoC\\AtivaBank.IoC.csproj",
+        "projectName": "AtivaBank.IoC",
+        "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.IoC\\AtivaBank.IoC.csproj",
+        "packagesPath": "C:\\Users\\ijuliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ijuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj"
+              },
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Test\\AtivaBank.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Test\\AtivaBank.Test.csproj",
+        "projectName": "AtivaBank.Test",
+        "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Test\\AtivaBank.Test.csproj",
+        "packagesPath": "C:\\Users\\ijuliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ijuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj"
+              },
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Domain\\AtivaBank.Domain.csproj"
+              },
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank\\AtivaBank.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank\\AtivaBank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank\\AtivaBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank\\AtivaBank.csproj",
+        "projectName": "AtivaBank",
+        "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank\\AtivaBank.csproj",
+        "packagesPath": "C:\\Users\\ijuliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ijuliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.Application\\AtivaBank.Application.csproj"
+              },
+              "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.IoC\\AtivaBank.IoC.csproj": {
+                "projectPath": "C:\\Users\\ijuliani\\source\\repos\\AtivaBank\\AtivaBank.IoC\\AtivaBank.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

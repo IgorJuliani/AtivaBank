@@ -1,0 +1,15 @@
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\bin\Debug\net6.0\AtivaBank.Infra.deps.json
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\bin\Debug\net6.0\AtivaBank.Infra.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\bin\Debug\net6.0\AtivaBank.Infra.pdb
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\bin\Debug\net6.0\AtivaBank.Domain.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\bin\Debug\net6.0\AtivaBank.Domain.pdb
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.csproj.AssemblyReference.cache
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.AssemblyInfoInputs.cache
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.AssemblyInfo.cs
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.csproj.CopyComplete
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\refint\AtivaBank.Infra.dll
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\AtivaBank.Infra.pdb
+C:\Users\ijuliani\source\repos\AtivaBank\AtivaBank.Infra\obj\Debug\net6.0\ref\AtivaBank.Infra.dll
